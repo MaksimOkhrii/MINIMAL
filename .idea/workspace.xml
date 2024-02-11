@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de5861e6-6fb1-4e9f-bd69-919dbafc3e2f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/minimal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/minimal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+    <list default="true" id="de5861e6-6fb1-4e9f-bd69-919dbafc3e2f" name="Changes" comment="add new section">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +26,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/mashe/OneDrive/Рабочий стол/minimal",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -44,7 +45,23 @@
       <workItem from="1707640093908" duration="36000" />
       <workItem from="1707640183138" duration="30000" />
       <workItem from="1707641959487" duration="211000" />
+      <workItem from="1707642266937" duration="395000" />
     </task>
+    <task id="LOCAL-00001" summary="commit file">
+      <created>1707642338877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707642338877</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add new section">
+      <created>1707642549719</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707642549719</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,5 +77,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit file" />
+    <MESSAGE value="add new section" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new section" />
   </component>
 </project>
